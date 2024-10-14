@@ -1,0 +1,15 @@
+{
+  "name": "weatherio-starter",
+  "version": "1.0.0",
+  "description": "weather forecast app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Dagi Ameha",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
